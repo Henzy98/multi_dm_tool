@@ -61,8 +61,6 @@ npm start
 
 - Rate limit koruması için optimize edilmiş delay'ler
 - Sadece kullanıcının kendi mesajları silinir
-- Henzy imzalı özel config sistemi (.henzy uzantısı)
-- Temiz ve düzenli kod yapısı
 
 ## Sorumluluk Reddi
 
@@ -78,4 +76,4 @@ için SORUMLU DEĞİLDİR.
 
 ---
 
-Made with 💀 by **HENZY**
+Made with 💕 by **HENZY**
